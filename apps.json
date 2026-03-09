@@ -6,14 +6,14 @@
       "name": "Zap Notes",
       "bundleIdentifier": "orgIdentifier.iosApp",
       "developerName": "Reess Kennedy",
-      "version": "1.0.82",
-      "versionDate": "2026-03-09T02:15:11Z",
+      "version": "1.0.83",
+      "versionDate": "2026-03-09T02:29:05Z",
       "versionDescription": "Automated build from private repository.",
       "downloadURL": "https://github.com/bigtoolshed/ZNRPAS/releases/download/latest/ZapNotes-iOS.ipa",
       "localizedDescription": "Zap Notes iOS sideloaded via AltStore.",
       "iconURL": "https://raw.githubusercontent.com/bigtoolshed/ZNRPAS/main/logo.jpeg",
       "tintColor": "0180FF",
-      "size": 18001945
+      "size": 18001046
     }
   ]
 }
