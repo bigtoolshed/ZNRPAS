@@ -6,14 +6,14 @@
       "name": "Quick Notes",
       "bundleIdentifier": "orgIdentifier.iosApp",
       "developerName": "Reess Kennedy",
-      "version": "1.0.16",
-      "versionDate": "2026-03-13T15:57:52Z",
+      "version": "1.0.17",
+      "versionDate": "2026-03-13T16:36:45Z",
       "versionDescription": "Automated build from private repository.",
       "downloadURL": "https://github.com/bigtoolshed/ZNRPAS/releases/download/latest/QuickNotes-iOS.ipa",
       "localizedDescription": "Quick Notes iOS sideloaded via AltStore.",
       "iconURL": "https://raw.githubusercontent.com/bigtoolshed/ZNRPAS/main/logo.jpeg",
       "tintColor": "0180FF",
-      "size": 18072905
+      "size": 18074643
     }
   ]
 }
