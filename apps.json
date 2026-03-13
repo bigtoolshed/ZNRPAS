@@ -1,19 +1,19 @@
 {
-  "name": "Reess Zap Notes Repository",
-  "identifier": "com.reesskennedy.zapnotes.source",
+  "name": "Reess Quick Notes Repository",
+  "identifier": "com.reesskennedy.quicknotes.source",
   "apps": [
     {
-      "name": "Zap Notes",
+      "name": "Quick Notes",
       "bundleIdentifier": "orgIdentifier.iosApp",
       "developerName": "Reess Kennedy",
-      "version": "1.0.127",
-      "versionDate": "2026-03-12T19:40:37Z",
+      "version": "1.0.2",
+      "versionDate": "2026-03-13T00:54:35Z",
       "versionDescription": "Automated build from private repository.",
-      "downloadURL": "https://github.com/bigtoolshed/ZNRPAS/releases/download/latest/ZapNotes-iOS.ipa",
-      "localizedDescription": "Zap Notes iOS sideloaded via AltStore.",
+      "downloadURL": "https://github.com/bigtoolshed/ZNRPAS/releases/download/latest/QuickNotes-iOS.ipa",
+      "localizedDescription": "Quick Notes iOS sideloaded via AltStore.",
       "iconURL": "https://raw.githubusercontent.com/bigtoolshed/ZNRPAS/main/logo.jpeg",
       "tintColor": "0180FF",
-      "size": 18033704
+      "size": 18045451
     }
   ]
 }
